@@ -46,3 +46,6 @@ config/terms.md
 coverage*
 
 /atom-sftp-sync.json
+
+# Ignore docker
+docker-compose.yml
